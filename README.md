@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: type mismatches.  The `add` function is defined to accept two numbers, but the code attempts to pass a string as a parameter. This results in a type error. The solution shows how to handle this issue by ensuring all inputs are of the correct type.
